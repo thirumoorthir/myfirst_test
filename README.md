@@ -1,3 +1,5 @@
+[![Build Status]]
+
 # myfirst_test
 
 #### Table of Contents
