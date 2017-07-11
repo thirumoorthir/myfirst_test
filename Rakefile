@@ -66,3 +66,4 @@ task :test => [
   :rubocop,
   :spec,
 ]
+

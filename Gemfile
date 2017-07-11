@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source ENV['GEM_SOURCE'] || "https://rubygems.org"
 
 group :test do
@@ -34,4 +35,5 @@ group :system_tests do
   gem "beaker"
   gem "beaker-rspec"
   gem "beaker-puppet_install_helper"
+
 end

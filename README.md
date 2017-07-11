@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thirumoorthir/myfirst_test.svg?branch=master)](https://travis-ci.org/thirumoorthir/myfirst_test)
+
 # myfirst_test
 
 #### Table of Contents
